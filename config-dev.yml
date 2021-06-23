@@ -2,6 +2,5 @@ config:
   info: "master branch,springcloud-config/config-dev.yml version=1"
 
 
-mybatis:
-  mapper-locations: classpath:mapper/*.xml
-  type-aliases-package: entity #所有entity别名所在包
+wang:
+  info: 1232
